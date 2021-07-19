@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\Movies\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "G:\\Movies\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Movies\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_movies.xml",
+        "source": "G:\\Movies\\app\\src\\main\\res\\layout\\list_movies.xml"
+    },
+    {
+        "merged": "G:\\Movies\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "G:\\Movies\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "G:\\Movies\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie.xml",
+        "source": "G:\\Movies\\app\\src\\main\\res\\layout\\activity_movie.xml"
+    }
+]

@@ -1,0 +1,23 @@
+com/kotlin/andi/movies/databinding/ActivityMainBinding.java
+ com.kotlin.andi.movies.databinding.ActivityMainBinding
+com/kotlin/andi/movies/data/source/local/room/MovieDao_Impl.java
+ com.kotlin.andi.movies.data.source.local.room.MovieDao_Impl
+ com.kotlin.andi.movies.data.source.local.room.MovieDao_Impl$1
+ com.kotlin.andi.movies.data.source.local.room.MovieDao_Impl$2
+ com.kotlin.andi.movies.data.source.local.room.MovieDao_Impl$3
+ com.kotlin.andi.movies.data.source.local.room.MovieDao_Impl$4
+ com.kotlin.andi.movies.data.source.local.room.MovieDao_Impl$5
+ com.kotlin.andi.movies.data.source.local.room.MovieDao_Impl$5$1
+ com.kotlin.andi.movies.data.source.local.room.MovieDao_Impl$6
+ com.kotlin.andi.movies.data.source.local.room.MovieDao_Impl$6$1
+com/kotlin/andi/movies/BuildConfig.java
+ com.kotlin.andi.movies.BuildConfig
+com/kotlin/andi/movies/databinding/ActivityMovieBinding.java
+ com.kotlin.andi.movies.databinding.ActivityMovieBinding
+com/kotlin/andi/movies/databinding/ActivityDetailBinding.java
+ com.kotlin.andi.movies.databinding.ActivityDetailBinding
+com/kotlin/andi/movies/data/source/local/room/MovieDatabase_Impl.java
+ com.kotlin.andi.movies.data.source.local.room.MovieDatabase_Impl
+ com.kotlin.andi.movies.data.source.local.room.MovieDatabase_Impl$1
+com/kotlin/andi/movies/databinding/ListMoviesBinding.java
+ com.kotlin.andi.movies.databinding.ListMoviesBinding
